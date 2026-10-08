@@ -255,22 +255,6 @@ The RFID reader communicates with the Arduino through **SPI**, while the LCD com
 
 ---
 
-## Project Structure
-
-```text
-Smart-Door-Lock/
-├── README.md
-├── src/
-│   └── smart_door_lock.ino
-└── images/
-    ├── smart-door-lock.jpg
-    ├── data-communication.png
-    ├── schematic.png
-    ├── state-machine.png
-    ├── access-granted.jpg
-    └── access-denied.jpg
-```
-
 ---
 
 ## Future Development
