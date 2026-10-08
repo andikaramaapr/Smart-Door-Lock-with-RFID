@@ -5,7 +5,7 @@ An embedded smart door lock system that uses **RFID-based authentication** to co
 The system verifies the unique ID of an RFID card and determines whether access should be granted or denied. Authorized users can unlock the door, while unauthorized cards are rejected. The system also implements **Watchdog Timer** and **low-power optimization** to improve reliability and power efficiency.
 
 <p align="center">
-  <img src="images/smart-door-lock.jpg" width="600">
+  <img src="images/smart-door-lock.png" width="600">
 </p>
 
 ## Features
