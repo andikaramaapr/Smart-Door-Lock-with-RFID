@@ -207,10 +207,6 @@ For a registered RFID/NFC card operating at the supported frequency, the system:
 - Does not activate the buzzer.
 - Activates the solenoid door lock.
 
-<p align="center">
-  <img src="images/access-granted.jpg" width="500">
-</p>
-
 ### Unauthorized Access
 
 For an RFID/NFC card with an unregistered ID, the system:
@@ -218,10 +214,6 @@ For an RFID/NFC card with an unregistered ID, the system:
 - Displays a rejection message on the LCD.
 - Activates the buzzer.
 - Keeps the solenoid door lock closed.
-
-<p align="center">
-  <img src="images/access-denied.jpg" width="500">
-</p>
 
 Cards using unsupported frequencies or non-RFID cards do not trigger the authentication process.
 
@@ -278,15 +270,6 @@ Smart-Door-Lock/
     ├── access-granted.jpg
     └── access-denied.jpg
 ```
-
----
-
-## Demonstration
-
-A complete demonstration of the system can be provided through the project documentation and source files.
-
-**Project Source Code:**  
-[View / Download Source Code](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ---
 
